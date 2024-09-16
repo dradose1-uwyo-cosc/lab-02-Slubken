@@ -1,23 +1,23 @@
-# Your Name Here
+# Spencer Lubken
 # UWYO COSC 1010
-# Submission Date
+# 09/16/24
 # Lab 02 
-# Lab Section: 
+# Lab Section: 14
 # Sources, people worked with, help given to: 
 # your
 # comments
 # here
 
-your_variable_here = "when you see this, replace it with your code"
+your_variable_here = "when you see this, replace it with your code" 
 
 ## Section ONE
 
 # Complete the following print statement to print out "Hello, COSC1010"
-print()
+print('Hello, COSC1010 ')
 
 # Assign the string above to a variable named hello_message and print that variable
-hello_message = ""
-print("Your code here")
+hello_message = "Hello, COSC1010"
+print("hello_message")
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 print("Your code here")
